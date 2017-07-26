@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="FormatType">
+
+        <item>Symbol</item>
+        <item>Short Code</item>
+    </string-array>
+
+    <string-array name="currency">
+
+        <item>USDOLLAR</item>
+        <item>NIGERIANNAIRA</item>
+        <item>GBPOUND</item>
+    </string-array>
+
+</resources>
