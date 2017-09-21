@@ -9,7 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/moneyformatter" />
+            <option value="$PROJECT_DIR$/moneyformatter-debug" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MoneyFormatter.iml" filepath="$PROJECT_DIR$/MoneyFormatter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/moneyformatter/moneyformatter.iml" filepath="$PROJECT_DIR$/moneyformatter/moneyformatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moneyformatter-debug/moneyformatter-debug.iml" filepath="$PROJECT_DIR$/moneyformatter-debug/moneyformatter-debug.iml" />
     </modules>
   </component>
 </project>
